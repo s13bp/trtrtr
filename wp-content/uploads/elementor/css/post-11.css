@@ -36,7 +36,7 @@
 .elementor-11 .elementor-element.elementor-element-d44ed8f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-11 .elementor-element.elementor-element-d44ed8f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #382e00bd 0%, rgba(255, 0, 140, 0.596) 100%);
+    background-image: linear-gradient(180deg, #ca036abd 0%, rgba(255, 0, 140, 0.596) 100%);
 }
 
 .elementor-11 .elementor-element.elementor-element-d44ed8f>.elementor-element-populated,
@@ -77,15 +77,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-44a59f4 .elementor-heading-title {
-    color: #ecd400;
+    color: #ff87c3;
     font-family: 'Press Start 2P', cursive;
     font-size: 30px;
     font-weight: 400;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: #cf0469;
+    text-shadow: 0px 0px 10px #000000;
 }
 
 .elementor-11 .elementor-element.elementor-element-6f84d11>.elementor-container {
@@ -128,9 +128,9 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-b64db28 {
@@ -142,13 +142,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -167,13 +167,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -192,13 +192,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -295,9 +295,9 @@
     font-weight: 500;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-0801596>.elementor-widget-container {
@@ -340,15 +340,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-f81c268 .elementor-heading-title {
-    color: #f7ff00;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 29px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-8fe437a {
@@ -357,7 +357,7 @@
     font-family: 'Josefin Slab', serif;
     font-size: 17px;
     font-weight: 600;
-    text-shadow: 0px 0px 10px #21a8f1;
+    text-shadow: 0px 0px 10px black;
     width: 100%;
     max-width: 100%;
 }
@@ -371,13 +371,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -396,13 +396,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -436,7 +436,7 @@
 
 .elementor-11 .elementor-element.elementor-element-16d1cc3 {
     --divider-border-style: x_tribal;
-    --divider-color: #FFD946;
+    --divider-color: #ff90c7;
     --divider-pattern-height: 20px;
 }
 
@@ -555,15 +555,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-d62f306 .elementor-heading-title {
-    color: #caf40c;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 29px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-863c495 {
@@ -571,16 +571,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-863c495 .elementor-heading-title {
-    color: #caf40c;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 37px;
     font-weight: 600;
     font-style: italic;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-03d6fb1 {
@@ -604,13 +604,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -629,13 +629,13 @@
     font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #21a8f1;
+    text-shadow: 0px 2px 7px black;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: orange;
+    border-color: #ff90c7;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -696,15 +696,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-37b813b .elementor-heading-title {
-    color: #caf40c;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 69px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-61d2bfb {
@@ -836,15 +836,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-ce87db8 .elementor-heading-title {
-    color: #caf40c;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 39px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-ce87db8>.elementor-widget-container {
@@ -951,15 +951,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-1f6602f .elementor-heading-title {
-    color: #caf40c;
+    color: #ff90c7;
     font-family: 'Press Start 2P', cursive;
     font-size: 27px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-58e6dbc img {
@@ -981,9 +981,9 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: orange;
-    stroke: orange;
-    text-shadow: 0px 0px 10px #21a8f1;
+    -webkit-text-stroke-color: #ff90c7;
+    stroke: black;
+    text-shadow: 0px 0px 10px black;
 }
 
 .elementor-11 .elementor-element.elementor-element-43a6be3 .elementor-repeater-item-00197e2.elementor-social-icon {
